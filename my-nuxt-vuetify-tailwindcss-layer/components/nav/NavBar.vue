@@ -53,7 +53,7 @@
             >
               <v-avatar
                 alt="Avatar"
-                image="https://avatars.githubusercontent.com/u/73772701?v=4"
+                image="https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDR8fGF2YXRhcnxlbnwwfHx8fDE2OTk3MDY2MzJ8MA&ixlib=rb-4.0.3&q=85"
                 size="large"
               ></v-avatar>
             </v-btn>

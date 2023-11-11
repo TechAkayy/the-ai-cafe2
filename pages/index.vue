@@ -38,6 +38,7 @@
 </script>
 <template>
   <div>
+    <NavBar></NavBar>
     <div
       style="
         display: flex;
@@ -48,9 +49,8 @@
         padding-bottom: 1.5rem /* 24px */;
       "
     >
-      <DarkModeSwitch /><span style="margin-left: 0.5rem; /* 8px */"
-        >A Fresh Start!</span
-      >
+      <DarkModeSwitch />
+      <span style="margin-left: 0.5rem; /* 8px */">A Fresh Start!</span>
     </div>
   </div>
 </template>
