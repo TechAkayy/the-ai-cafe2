@@ -39,6 +39,9 @@
 <template>
   <div>
     <HeroSection />
+    <section class="container mx-auto">
+      <SpecialsForToday />
+    </section>
   </div>
 </template>
 <style scoped></style>
