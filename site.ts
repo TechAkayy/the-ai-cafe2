@@ -3,12 +3,12 @@
 // @unocss-include
 
 export default {
-  name: 'VuCommerce',
+  name: 'the ai cafe',
   description: 'Vue Designer Nuxt Vuetify Tailwind CSS',
-  logo: 'i-fluent-emoji:shopping-bags',
+  logo: 'i-vscode-icons:file-type-coffeelint',
   author: 'Pinegrow',
-  url: 'https://pg-nuxt-vuetify-tailwindcss.netlify.app',
-  github: 'https://github.com/pinegrow/pg-nuxt-vuetify-tailwindcss',
+  url: 'https://euphonious-centaur-7cb270.netlify.app',
+  github: 'https://github.com/TechAkayy/the-ai-cafe2',
   defaultLocale: 'en', // default
   identity: {
     type: 'Organization',

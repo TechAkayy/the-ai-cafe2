@@ -1,10 +1,10 @@
 {
   "name": "pg-nuxt-vuetify-tailwindcss",
   "version": "0.0.0",
-  "homepage": "https://pg-nuxt-vuetify-tailwindcss.netlify.app",
+  "homepage": "https://euphonious-centaur-7cb270.netlify.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinegrow/pg-nuxt-vuetify-tailwindcss.git"
+    "url": "https://github.com/TechAkayy/the-ai-cafe2.git"
   },
   "scripts": {
     "dev": "nuxt dev",
