@@ -37,9 +37,8 @@
   const bgStyles = heroImageOptimized.bgStyles
 </script>
 <template>
-    <div>
-        <NavBar></NavBar>
-        <HeroSection/>
-    </div>
+  <div>
+    <HeroSection />
+  </div>
 </template>
 <style scoped></style>

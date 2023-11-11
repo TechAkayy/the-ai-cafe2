@@ -15,6 +15,7 @@
       <!-- https://vuetifyjs.com/en/features/application-layout/
         Navbar contains all nav components such as v-app-bar, v-system-bar, v-navigation-drawer, v-bottom-navigation -->
       <!-- <NavBar /> -->
+      <NavBar></NavBar>
       <v-main class="py-4">
         <slot />
       </v-main>
