@@ -6,6 +6,8 @@
     navOrder: '3',
     type: 'primary',
     icon: 'i-mdi-home',
+    ogImage:
+      'https://images.unsplash.com/photo-1453614512568-c4024d13c247?crop=entropy&cs=srgb&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDE4fHxjYWZlJTIwbGF1bmNofGVufDB8fHx8MTY5OTcwOTcwNHww&ixlib=rb-4.0.3&q=85', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
   })
 
   const years = [
