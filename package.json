@@ -10,7 +10,7 @@
     "dev": "nuxt dev",
     "now": "npm run build && npm run preview",
     "lighthouse:dev": "npx unlighthouse --no-cache --site http://localhost:3000",
-    "lighthouse": "npx unlighthouse --no-cache --site https://pg-nuxt-vuetify-tailwindcss.netlify.app",
+    "lighthouse": "npx unlighthouse --no-cache --site https://euphonious-centaur-7cb270.netlify.app",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",

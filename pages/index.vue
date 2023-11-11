@@ -6,11 +6,12 @@
     // name: 'index',
     // alias: 'index',
     title: 'Home',
-    description: 'Style Up Your Life!',
+    description: 'Sip, Savor, and Spark Ideas at the AI Cafe!',
     navOrder: 1,
     type: 'primary',
     icon: 'i-mdi-home',
-    // ogImage: 'images/ogImage.png', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
+    ogImage:
+      'https://unsplash.com/photos/ZZxmc66SjfM/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjk5NzA1NTA0fA&force=true', // url or local images inside public folder, for eg, ~/public/images/ogImage.png
   })
 
   const { optimizeImage } = useOptimizeImage()
